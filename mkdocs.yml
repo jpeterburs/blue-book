@@ -1,1 +1,9 @@
 site_name: Blue book
+site_description: My knowledge base for common problems I encounter
+site_author: Jonas Peterburs
+copyright: '&copy; 2024'
+repo_url: https://github.com/jpeterburs/blue-book
+edit_uri: blob/main/docs/
+nav:
+  - 'Portfolio': 'https://jpeterburs.de'
+  - index.md
